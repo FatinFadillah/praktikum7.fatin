@@ -1,0 +1,49 @@
+.countener1{
+  background-color: greenyellow;
+  height: 150px;
+  margin: 1em 0em 2em;
+}
+.box1{
+  background-color: aquamarine;
+  width: 50x;
+  height: 100px;
+  margin: 1em 0em 2em;
+}
+
+.countener2{
+  display: flex;
+  margin: 1em 0em 2em;
+}
+
+.box2{
+  background-color: blueviolet;
+  width: 80%;
+  height: 200px;
+  margin: 1em 0em 2em;
+}
+
+.countener3{
+  display: flex;
+  margin: 1em 0em 2em;
+}
+
+.box3{
+  background-color: yellow;
+  width: 20%;
+  height: 400px;
+}
+.countener4{
+  display: flex;
+  margin: 1em 0em 2em;
+}
+
+.box4{
+  background-color: brown;
+  width: 20%;
+  height: 400px;
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+}
